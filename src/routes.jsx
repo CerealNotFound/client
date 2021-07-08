@@ -8,5 +8,6 @@ const Routes = () => {
   return (<Route exact path="/" component={LandingPage}>
     <LandingPage />
   </Route>);
+}
 
 export default Routes;
